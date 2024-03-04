@@ -208,7 +208,7 @@ margin: 40px;
   nav,
   .teams-container,
   .facts-card-container,
-  .features
+  .features,
   .sponsors-img-container {
     flex-direction: column;
   }
